@@ -16,6 +16,7 @@ pip install django
 
 Quais são os programas e versões para o projeto?
 pip freeze
+
 pip freeze > requirements.txt ( cria arquivo com todos os programas até então instalados, sempre que for feito a instalação de um novo programa é necessário repetir esse processo)
 
 Criando meu primeiro projeto
