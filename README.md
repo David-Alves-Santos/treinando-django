@@ -50,8 +50,8 @@ Criamos um arquimo .gitignore
 Já existe um arquivo pronto no site "gitignore.io"
 
 Subindo para o Github:
-git init 
-dit add .
+git init
+git add .
 git commit -m "nome do projeto" ex: alura space
 Na pagina do Github copiar o endereço do "ssh".
 
